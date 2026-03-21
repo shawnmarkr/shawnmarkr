@@ -23,7 +23,7 @@
 
 <div align="center">
 
-### 🛠️ My Tech Stack
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFpOGNxdzVjbDhhcmR4NHMxcWFnN2Uzd2s4aDEycjQ0dWFvNWNmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oxK3yPUN1NWWzgJkEk/giphy.gif" width="26"> My Tech Stack
 
 #### ☁️ DevOps / Cloud
 
