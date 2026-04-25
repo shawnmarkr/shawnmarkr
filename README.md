@@ -51,6 +51,7 @@
 
 | Project | Description |
 | :--- | :--- |
+| **[terraform-three-tier](https://https://github.com/Tettano/terraform-three-tier** | Autoscaling AWS Infra (NAT, VPC, ALB, RDS-Multi AZ) robust architecture.  |
 | **[terraform-aws-infra](https://github.com/Tettano/Terraform-aws-infra)** | Multi-tier AWS infra (VPC, EC2, RDS) with modular Terraform, S3 remote state, DynamoDB locking, and a full GitHub Actions CI/CD pipeline. |
 | **[aws-static-web](https://github.com/Tettano/aws-static-web)** | Static website hosted on AWS S3 with ACL configuration and bucket policies. |
 
