@@ -51,9 +51,9 @@
 
 | Project | Description |
 | :--- | :--- |
-| **[terraform-three-tier](https://github.com/Tettano/terraform-three-tier)** | Autoscaling AWS Infra (NAT, VPC, ALB, RDS-Multi AZ) robust architecture.  |
-| **[terraform-aws-infra](https://github.com/Tettano/Terraform-aws-infra)** | Multi-tier AWS infra (VPC, EC2, RDS) with modular Terraform, S3 remote state, DynamoDB locking, and a full GitHub Actions CI/CD pipeline. |
-| **[aws-static-web](https://github.com/Tettano/aws-static-web)** | Static website hosted on AWS S3 with ACL configuration and bucket policies. |
+| **[terraform-three-tier](https://github.com/shawnmarkr/terraform-three-tier)** | Autoscaling AWS Infra (NAT, VPC, ALB, RDS-Multi AZ) robust architecture.  |
+| **[terraform-aws-infra](https://github.com/shawnmarkr/Terraform-aws-infra)** | Multi-tier AWS infra (VPC, EC2, RDS) with modular Terraform, S3 remote state, DynamoDB locking, and a full GitHub Actions CI/CD pipeline. |
+| **[aws-static-web](https://github.com/shawnmarkr/aws-static-web)** | Static website hosted on AWS S3 with ACL configuration and bucket policies. |
 
 </div>
 
@@ -63,9 +63,9 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tettano&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Shawn's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=shawnmarkr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Shawn's GitHub stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tettano&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnmarkr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tettano.Tettano)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shawnmarkr.shawnmarkr)
 
 
 </div>
