@@ -63,7 +63,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=shawnmarkr&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Shawn's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=shawnmarkr&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shawnmarkr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
